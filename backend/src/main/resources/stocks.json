@@ -1,0 +1,149 @@
+[
+  {
+    "symbol": "INFY.NS",
+    "name": "Infosys Limited",
+    "sector": "IT",
+    "marketCap": 6100000000000,
+    "capSize": "Large"
+  },
+  {
+    "symbol": "TCS.NS",
+    "name": "Tata Consultancy Services",
+    "sector": "IT",
+    "marketCap": 13000000000000,
+    "capSize": "Large"
+  },
+  {
+    "symbol": "HDFCBANK.NS",
+    "name": "HDFC Bank Limited",
+    "sector": "Banking",
+    "marketCap": 9000000000000,
+    "capSize": "Large"
+  },
+  {
+    "symbol": "ICICIBANK.NS",
+    "name": "ICICI Bank Limited",
+    "sector": "Banking",
+    "marketCap": 6500000000000,
+    "capSize": "Large"
+  },
+  {
+    "symbol": "FEDERALBNK.NS",
+    "name": "Federal Bank Limited",
+    "sector": "Banking",
+    "marketCap": 350000000000,
+    "capSize": "Mid"
+  },
+  {
+    "symbol": "RELIANCE.NS",
+    "name": "Reliance Industries Ltd.",
+    "sector": "Oil & Gas",
+    "marketCap": 19000000000000,
+    "capSize": "Large"
+  },
+  {
+    "symbol": "RELIANCE.NS",
+    "name": "Reliance Industries Ltd.",
+    "sector": "Oil & Gas",
+    "marketCap": 19000000000000,
+    "capSize": "Large"
+  },
+  {
+    "symbol": "RELIANCE.NS",
+    "name": "Reliance Industries Ltd.",
+    "sector": "Oil & Gas",
+    "marketCap": 19000000000000,
+    "capSize": "Large"
+  },  {
+  "symbol": "RELIANCE.NS",
+  "name": "Reliance Industries Ltd.",
+  "sector": "Oil & Gas",
+  "marketCap": 19000000000000,
+  "capSize": "Large"
+},
+  {
+    "symbol": "RELIANCE.NS",
+    "name": "Reliance Industries Ltd.",
+    "sector": "Oil & Gas",
+    "marketCap": 19000000000000,
+    "capSize": "Large"
+  },
+  {
+    "symbol": "RELIANCE.NS",
+    "name": "Reliance Industries Ltd.",
+    "sector": "Oil & Gas",
+    "marketCap": 19000000000000,
+    "capSize": "Large"
+  },
+  {
+    "symbol": "RELIANCE.NS",
+    "name": "Reliance Industries Ltd.",
+    "sector": "Oil & Gas",
+    "marketCap": 19000000000000,
+    "capSize": "Large"
+  },
+
+    {
+        "symbol": "HINDUNILVR.NS",
+        "name": "Hindustan Unilever Limited",
+        "sector": "Consumer Goods",
+        "marketCap": 6000000000000,
+        "capSize": "Large"
+    },
+    {
+        "symbol": "MARUTI.NS",
+        "name": "Maruti Suzuki India Ltd.",
+        "sector": "Automobile",
+        "marketCap": 2500000000000,
+        "capSize": "Large"
+    },
+    {
+        "symbol": "TATAMOTORS.NS",
+        "name": "Tata Motors Limited",
+        "sector": "Automobile",
+        "marketCap": 1500000000000,
+        "capSize": "Mid"
+    },
+    {
+        "symbol": "ASIANPAINT.NS",
+        "name": "Asian Paints Limited",
+        "sector": "Consumer Goods",
+        "marketCap": 3000000000000,
+        "capSize": "Large"
+    },
+    {
+        "symbol": "HCLTECH.NS",
+        "name": "HCL Technologies Limited",
+        "sector": "IT",
+        "marketCap": 2500000000000,
+        "capSize": "Large"
+    },
+  {
+    "symbol": "IOC.NS",
+    "name": "Indian Oil Corporation",
+    "sector": "Oil & Gas",
+    "marketCap": 1500000000000,
+    "capSize": "Mid"
+  },
+  {
+    "symbol": "BPCL.NS",
+    "name": "Bharat Petroleum Corporation",
+    "sector": "Oil & Gas",
+    "marketCap": 1000000000000,
+    "capSize": "Mid"
+  },
+  {
+    "symbol": "IDEA.NS",
+    "name": "Vodafone Idea Ltd.",
+    "sector": "Telecom",
+    "marketCap": 450000000000,
+    "capSize": "Mid"
+  },
+  {
+    "symbol": "MTNL.NS",
+    "name": "Mahanagar Telephone Nigam Ltd.",
+    "sector": "Telecom",
+    "marketCap": 80000000000,
+    "capSize": "Small"
+  }
+]
