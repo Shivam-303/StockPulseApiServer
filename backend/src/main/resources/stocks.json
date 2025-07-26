@@ -42,82 +42,68 @@
     "capSize": "Large"
   },
   {
-    "symbol": "RELIANCE.NS",
-    "name": "Reliance Industries Ltd.",
-    "sector": "Oil & Gas",
-    "marketCap": 19000000000000,
+    "symbol": "UJJIVANSFB.NS",
+    "name": "Ujjivan Small Finance Bank",
+    "sector": "Banking",
+    "marketCap": 120000000000,
+    "capSize": "Mid"
+  },
+  {
+    "symbol": "PARASDEF.NS",
+    "name": "Paras Defence and Space Technologies",
+    "sector": "Defence",
+    "marketCap": 50000000000,
+    "capSize": "Small"
+  },
+  {
+    "symbol": "MAHABANK.NS",
+    "name": "Bank of Maharashtra",
+    "sector": "Banking",
+    "marketCap": 40000000000,
+    "capSize": "Small"
+  },
+  {
+    "symbol": "UCOBANK.NS",
+    "name": "UCO Bank",
+    "sector": "Banking",
+    "marketCap": 35000000000,
+    "capSize": "Small"
+  },
+  {
+    "symbol": "HINDUNILVR.NS",
+    "name": "Hindustan Unilever Limited",
+    "sector": "Consumer Goods",
+    "marketCap": 6000000000000,
     "capSize": "Large"
   },
   {
-    "symbol": "RELIANCE.NS",
-    "name": "Reliance Industries Ltd.",
-    "sector": "Oil & Gas",
-    "marketCap": 19000000000000,
-    "capSize": "Large"
-  },  {
-  "symbol": "RELIANCE.NS",
-  "name": "Reliance Industries Ltd.",
-  "sector": "Oil & Gas",
-  "marketCap": 19000000000000,
-  "capSize": "Large"
-},
-  {
-    "symbol": "RELIANCE.NS",
-    "name": "Reliance Industries Ltd.",
-    "sector": "Oil & Gas",
-    "marketCap": 19000000000000,
+    "symbol": "MARUTI.NS",
+    "name": "Maruti Suzuki India Ltd.",
+    "sector": "Automobile",
+    "marketCap": 2500000000000,
     "capSize": "Large"
   },
   {
-    "symbol": "RELIANCE.NS",
-    "name": "Reliance Industries Ltd.",
-    "sector": "Oil & Gas",
-    "marketCap": 19000000000000,
+    "symbol": "TATAMOTORS.NS",
+    "name": "Tata Motors Limited",
+    "sector": "Automobile",
+    "marketCap": 1500000000000,
+    "capSize": "Mid"
+  },
+  {
+    "symbol": "ASIANPAINT.NS",
+    "name": "Asian Paints Limited",
+    "sector": "Consumer Goods",
+    "marketCap": 3000000000000,
     "capSize": "Large"
   },
   {
-    "symbol": "RELIANCE.NS",
-    "name": "Reliance Industries Ltd.",
-    "sector": "Oil & Gas",
-    "marketCap": 19000000000000,
+    "symbol": "HCLTECH.NS",
+    "name": "HCL Technologies Limited",
+    "sector": "IT",
+    "marketCap": 2500000000000,
     "capSize": "Large"
   },
-
-    {
-        "symbol": "HINDUNILVR.NS",
-        "name": "Hindustan Unilever Limited",
-        "sector": "Consumer Goods",
-        "marketCap": 6000000000000,
-        "capSize": "Large"
-    },
-    {
-        "symbol": "MARUTI.NS",
-        "name": "Maruti Suzuki India Ltd.",
-        "sector": "Automobile",
-        "marketCap": 2500000000000,
-        "capSize": "Large"
-    },
-    {
-        "symbol": "TATAMOTORS.NS",
-        "name": "Tata Motors Limited",
-        "sector": "Automobile",
-        "marketCap": 1500000000000,
-        "capSize": "Mid"
-    },
-    {
-        "symbol": "ASIANPAINT.NS",
-        "name": "Asian Paints Limited",
-        "sector": "Consumer Goods",
-        "marketCap": 3000000000000,
-        "capSize": "Large"
-    },
-    {
-        "symbol": "HCLTECH.NS",
-        "name": "HCL Technologies Limited",
-        "sector": "IT",
-        "marketCap": 2500000000000,
-        "capSize": "Large"
-    },
   {
     "symbol": "IOC.NS",
     "name": "Indian Oil Corporation",
